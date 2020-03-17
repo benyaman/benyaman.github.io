@@ -5,6 +5,7 @@ tags: [CC, newton]
 header:
   image: "/images/manga.jpg"
 excerpt: "Métodos de aproximación"
+mathjax: true
 ---
 
 # H1 Heading
