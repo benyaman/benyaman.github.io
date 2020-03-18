@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Benja Jorquera"
+locale                   : "es"
+title                    : "Benyi"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Projects" # site tagline that appears below site title in masthead
 name                     : "Benja Jorquera"
-description              : "Student Portfolio."
+description              : "Personal Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "BenjaJorquera5"
 facebook:
   username               :
   app_id                 :
@@ -82,6 +82,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/BenjaJorquera5"
+    - "https://www.linkedin.com/in/benjamin-alberto-jorquera-jorquera-a22098197/"
 
 # Analytics
 analytics:
@@ -95,25 +97,25 @@ analytics:
 author:
   name             : "Benja Jorquera"
   avatar           : "/images/gnome.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Projects and more."
+  bio              : "Estudiante de ingeniería civil informática."
   location         : "Santiago, Chile"
-  email            :
+  email            : "benja.jorquera.j@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:benja.jorquera.j@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/BenjaJorquera5"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/benyaman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,13 +125,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/BenjaJorquera5"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/benyaman"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
