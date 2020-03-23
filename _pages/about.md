@@ -5,4 +5,4 @@ header:
   image: "/images/zenitsu.jpg"
 ---
 
-Soy estudiante de ingeniería civil informática, me gusta el anime/manga y andar en bicicleta.
+Hola, bienvenido/a a mi portafolio, en este sitio web encontrarás publicaciones sobre mi experiencia personal y profesional.
