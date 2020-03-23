@@ -83,7 +83,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/BenjaJorquera5"
-    - "https://www.linkedin.com/in/benjamin-alberto-jorquera-jorquera-a22098197/"
+    - "https://www.linkedin.com/in/benjamin-jorquera-jorquera-a22098197/"
     - "https://www.facebook.com/benjjia"
 
 # Analytics
