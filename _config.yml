@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               : "BenjaJorquera5"
 facebook:
-  username               :
+  username               : "benjjia"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -84,6 +84,7 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/BenjaJorquera5"
     - "https://www.linkedin.com/in/benjamin-alberto-jorquera-jorquera-a22098197/"
+    - "https://www.facebook.com/benjjia"
 
 # Analytics
 analytics:
@@ -96,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Benja Jorquera"
-  avatar           : "/images/gnome.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Estudiante de ingeniería civil informática."
   location         : "Santiago, Chile"
   email            : "benja.jorquera.j@gmail.com"
@@ -115,7 +116,7 @@ author:
       url: "https://www.facebook.com/benjjia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/benyaman"
+      url: "https://github.com/benyaamin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -131,7 +132,7 @@ footer:
       url: "https://www.facebook.com/benjjia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/benyaman"
+      url: "https://github.com/benyaamin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
