@@ -112,7 +112,7 @@ author:
       url: "https://twitter.com/BenjaJorquera5"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/benjjia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benyaman"
@@ -128,7 +128,7 @@ footer:
       url: "https://twitter.com/BenjaJorquera5"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/benjjia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benyaman"

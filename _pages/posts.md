@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /laboratories/
-title: "Labs"
+permalink: /posts/
+title: "Posts"
 author_profile: true
 header:
   image: "/images/berserk-manga.jpg"

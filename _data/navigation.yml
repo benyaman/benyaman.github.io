@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Labs"
-    url: /laboratories/
+  - title: "Posts"
+    url: /posts/
   - title: "About"
     url: /about/
   # - title: "About"
