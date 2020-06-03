@@ -148,7 +148,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _mejillitas
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -291,3 +290,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  #_mejillitas
+  - scope:
+      path: ""
+      type: mejillitas
+    values:
+      layout: NULL
