@@ -148,6 +148,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _mejillitas
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
