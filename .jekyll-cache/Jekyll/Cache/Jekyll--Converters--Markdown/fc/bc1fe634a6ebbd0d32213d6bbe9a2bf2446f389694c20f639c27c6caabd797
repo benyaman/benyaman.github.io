@@ -1,0 +1,8 @@
+I"=<p>var store = [{
+        “title”: “Computación Científica: Tarea 1”,
+        “excerpt”:”H1 Heading   H2   H3   Some basic text   and italics   and bolds   and link   Bulleted list:      a   b   c   Numered list:      a   b   c   Python code block:      def a():     z = 1     return z    inline code x+y   imagen      usnaod kramdown:      math:   \[x+y\]  inline \(z + y\)  “,”categories”: [],
+        “tags”: [“CC”,”newton”],
+        “url”: “http://localhost:4000/aproximation-methods/”,
+        “teaser”: null
+      }]</p>
+:ET

@@ -1,0 +1,86 @@
+I"�<!--
+# Jekyll Group-By-Array 0.1.0
+# https://github.com/mushishi78/jekyll-group-by-array
+# © 2015 Max White <mushishi78@gmail.com>
+# MIT License
+-->
+
+<!-- Initialize -->
+
+<!-- Map -->
+
+<!-- Flatten -->
+
+<!-- Uniq -->
+
+<!-- If not equal to previous then it must be unique as sorted -->
+
+<!-- Push to group_names -->
+
+<!-- If not equal to previous then it must be unique as sorted -->
+
+<!-- Push to group_names -->
+
+<!-- group_items -->
+
+<!-- Collect if contains -->
+
+<!-- Push to group_items -->
+
+<!-- Collect if contains -->
+
+<!-- Push to group_items -->
+
+<h2 id="cc" class="archive__subtitle">CC</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/aproximation-methods/" rel="permalink">Computación Científica: Tarea 1
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  menos de 1 minuto(s) de lectura
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Métodos de aproximación
+</p>
+  </article>
+</div>
+
+<h2 id="newton" class="archive__subtitle">newton</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/aproximation-methods/" rel="permalink">Computación Científica: Tarea 1
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  menos de 1 minuto(s) de lectura
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Métodos de aproximación
+</p>
+  </article>
+</div>
+
+:ET

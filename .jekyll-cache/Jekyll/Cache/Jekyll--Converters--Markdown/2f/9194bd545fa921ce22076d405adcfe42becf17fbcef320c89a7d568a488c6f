@@ -1,0 +1,55 @@
+I""<h1 id="h1-heading">H1 Heading</h1>
+
+<h2 id="h2">H2</h2>
+
+<h3 id="h3">H3</h3>
+
+<p>Some basic text</p>
+
+<p>and <em>italics</em></p>
+
+<p>and <strong>bolds</strong></p>
+
+<p>and <a href="https://github.com">link</a></p>
+
+<p>Bulleted list:</p>
+
+<ul>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+</ul>
+
+<p>Numered list:</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+</ol>
+
+<p>Python code block:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+  <span class="k">def</span> <span class="nf">a</span><span class="p">():</span>
+    <span class="n">z</span> <span class="o">=</span> <span class="mi">1</span>
+    <span class="k">return</span> <span class="n">z</span>
+
+</code></pre></div></div>
+
+<p>inline code <code class="language-plaintext highlighter-rouge">x+y</code></p>
+
+<p>imagen</p>
+
+<p><img src="http://localhost:4000/images/chihiro.jpg" alt="chihiro" /></p>
+
+<p>usnaod kramdown:</p>
+
+<p><img src="http://localhost:4000/images/chihiro.jpg" alt="alt" /></p>
+
+<p>math:</p>
+
+\[x+y\]
+
+<p>inline \(z + y\)</p>
+:ET
