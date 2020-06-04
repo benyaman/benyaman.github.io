@@ -3,7 +3,7 @@ title: "Computación Científica: Tarea 1"
 date: 2020-03-16
 tags: [CC, newton]
 header:
-  image: "/images/zenitsu.jpg"
+  image: "/images/benPortfolio/zenitsu.jpg"
 excerpt: "Métodos de aproximación"
 mathjax: true
 ---

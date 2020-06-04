@@ -174,7 +174,7 @@
   
     <div class="author__avatar">
       
-        <img src="/images/profile.jpg" alt="Benja Jorquera" itemprop="image">
+        <img src="/images/benPortfolio/profile.jpg" alt="Benja Jorquera" itemprop="image">
       
     </div>
   

@@ -4,7 +4,7 @@ permalink: /posts/
 title: "Posts"
 author_profile: true
 header:
-  image: "/images/spirited-banner.jpg"
+  image: "/images/benPortfolio/spirited-banner.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
