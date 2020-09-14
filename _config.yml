@@ -22,7 +22,7 @@ subtitle                 : "Blog" # site tagline that appears below site title i
 name                     : &name "Benja Jorquera"
 description              : "Portafolio personal, trabajos, proyectos, pasatiempos y más."
 url                      : "https://benjajorquera.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/benyi" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/benyi" # the subpath of your site, e.g. "/blog"
 repository               : "benjajorquera/benjajorquera.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/BenYiLogo1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
