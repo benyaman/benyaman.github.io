@@ -10,5 +10,22 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Publicaciones"
+    url: /posts/
   - title: "Portafolio"
     url: /portfolio/
+  - title: "Acerca de"
+    url: /about/
+
+posts:
+  - title:
+    children:
+      - title: "- Año"
+        url: /year-archive/
+      - title: "- Categorias"
+        url: /categories/
+      - title: "- Colecciones"
+        url: /collection-archive/
+      - title: "- Tags"
+        url: /tags/
+      
